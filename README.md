@@ -24,7 +24,7 @@ Generated images using different Styles:
 
 ## Loss Function
 
-Image is generated for promp "mermaid". Embedding of generated image is used as ground truth for loss function. Following images are created with different styles:
+Image is generated for prompt "mermaid". Embedding of generated image is used as ground truth for loss function. Following images are created with different styles:
 
 | Style: None | Style: midjourney-style |
 | --- | --- |
