@@ -21,3 +21,19 @@ Generated images using different Styles:
 | Style: illustration-style | Style: m-geo |
 | --- | --- |
 | ![image](https://user-images.githubusercontent.com/120099863/235309782-f9d3a84e-cbb9-4a97-b9c0-d66e15b62913.png) | ![image](https://user-images.githubusercontent.com/120099863/235309795-0860c1e7-fc6b-4cbd-85b4-3d88c91cd50c.png) |
+
+## Loss Function
+
+Generated image embeddings for "mermaid" is used for loss function. Following images are created with different styles:
+
+| Style: None | Style: midjourney-style |
+| --- | --- |
+| ![image](https://user-images.githubusercontent.com/120099863/235309991-ab4603d8-88b7-45f0-bb1b-312103eeec90.png) | ![image](https://user-images.githubusercontent.com/120099863/235310007-8e36d94f-8465-455a-b5e6-6676e46d73d8.png) |
+
+| Style: birb-style | Style: summie-style |
+| --- | --- |
+| ![image](https://user-images.githubusercontent.com/120099863/235310026-9eae14ce-77cc-4044-b36a-bdb218cfc89d.png) | ![image](https://user-images.githubusercontent.com/120099863/235310041-40aba65a-585e-4df8-b33b-2c576eaa0d3c.png) |
+
+| Style: illustration-style | Style: m-geo |
+| --- | --- |
+| ![image](https://user-images.githubusercontent.com/120099863/235310059-7152c2ed-e976-4d98-9c2b-901ec227f91e.png) | ![image](https://user-images.githubusercontent.com/120099863/235310080-72977dc1-a2ed-4693-ab93-520ab58cc08b.png) |
